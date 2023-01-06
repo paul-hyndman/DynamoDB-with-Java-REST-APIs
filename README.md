@@ -13,11 +13,11 @@
 #    DELETE - http://localhost:1025/order/{order_id}
 
 An example payload for POST/PUT is:
-{
-    "orderId" : "6",
-    "customerId" : "555",
-    "sku" : "110-rrgt555",
-    "quantity" : 5
+{<br>
+    "orderId" : "6",<br>
+    "customerId" : "555",<br>
+    "sku" : "110-rrgt555",<br>
+    "quantity" : 5<br>
 }
 
 Requirements:
