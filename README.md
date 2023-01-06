@@ -1,6 +1,5 @@
 # Project uses AWS CDK to create AWS DynamoDB and implements a Java-based CRUD API
-# Project also illustrates correct usage of checked exceptions in Java indicating
-# recoverable errors and semantics
+# Project also illustrates correct usage of checked exceptions in Java indicating recoverable errors and semantics
 
 # Project creates AWS artifacts:
 #  - DynamoDB
