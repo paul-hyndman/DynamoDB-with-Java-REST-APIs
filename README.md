@@ -8,9 +8,9 @@
 # When deployed on desktop , issue requests to URLs:
 #    POST - http://localhost:1025/order
 #    PUT - http://localhost:1025/order
-#    GET - http://localhost:1025/order/<order id>
-#    GET - http://localhost:1025/orders/customer/<customer id>
-#    DELETE - http://localhost:1025/order/<order id>
+#    GET - http://localhost:1025/order/{order id}
+#    GET - http://localhost:1025/orders/customer/{customer id}
+#    DELETE - http://localhost:1025/order/{order id}
 
 An example payload for POST/PUT is:
 {
