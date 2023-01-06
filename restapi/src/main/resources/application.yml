@@ -1,0 +1,6 @@
+server:
+  port : 1025
+
+access_key : <<your access key>>
+secret_access_key : <<your secret access key>>
+aws_region : <<your region>>
